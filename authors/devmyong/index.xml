@@ -6,9 +6,59 @@
     <description>Recent content in DevMyong on Dev Logs | DevMyong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-kr</language>
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://myong.dev/authors/devmyong/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is the Fuzzer?</title>
+      <link>https://myong.dev/post/what-is-the-fuzzer/</link>
+      <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://myong.dev/post/what-is-the-fuzzer/</guid>
+      <description>.
+Fuzzing이란 무엇인가? Fuzzing은 프로그램의 보안 취약점을 탐지하는 다양한 기법 중 하나입니다.
+Fuzzing의 시초 Fuzzing을 처음 언급한 곳은 1990년대 Barton P. Miller 교수의 논문 &amp;ldquo;An Empirical Study of the Reliability of UNIX Utilities&amp;quot;이고 이를 표현하기를, &amp;lsquo;대상 프로그램에서 사용할 임의의 문자 스트림을 생성하는 것&#39;이라고 하였습니다. 이 사건 이후, 해당 단어가 본래 정의된 뜻 외에도 다양한 분야에서 많은 용도로 사용되게 됩니다.
+Fuzzing의 현대적 의미 현대에 들어서 밀러 교수님의 연구를 계승하면서, 동시에 가장 보편적으로 사용되는 정의는 &amp;lsquo;테스트 대상 프로그램의 예상 입력 범위를 벗어나는 입력을 사용해서 테스트 대상 프로그램을 반복하여 실행하는 것&#39;입니다.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://myong.dev/post/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myong.dev/post/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://myong.dev/post/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myong.dev/post/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://myong.dev/post/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myong.dev/post/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://myong.dev/post/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://myong.dev/post/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
